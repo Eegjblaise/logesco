@@ -1,0 +1,44 @@
+lorsque l'administrateur se cree ou cree un autre utilisateur, on cree automatiquement leur cloud personel (fait)
+seul les utilisateurs peuvent creer d'autre cloud
+
+importer les niveaux en lot (fait)
+
+
+importer les specialité en lot (fait)
+lorsque on cree une specialité on cree automatiquement son cloud avec un mot de passe (fait)
+
+
+importer les matieres en lot(fait)
+
+importer les enseignants en lot (fait)
+lorsqu'on ajoute un enseignant ou s'il s'inscrit en ligne on l'enregistrement au cloud (avec creation de lib personel) (fait)
+
+importer les salles en lot (fait)
+
+
+importer les disciplines en lot (fait)
+
+
+importer les etudiants en lot (fait)
+lorsqu'on ajoute un etudiant ou s'il s'inscrit en ligne on l'enregistrement au cloud (avec creation de lib personel) (manque le module d'inscription en ligne)
+
+
+implementer un QR code sur les releves de notes pour l'authenticité (fait)
+
+
+dans l'espace comptable implementer un bouton pour activer ou desactiver le paiement par les etudiants eux meme par orange money
+
+inclure dans l'espace etudiant le paiement de scolarite en ligne
+dans l'espace etudiant un eleve peut avoir acces à ses notes
+envoyer un message d'acceuil avec un code d'activation lorsque l'administrateur cree l'etablissement()
+
+mettre sur pied un algorithm de newletters (webcron: envoyer un mail aux apprenants qui ont depassé le delais de paiement d'une scolarité, 
+envoyer un mail , envoyer un mail aux administrateur lorsque l'etablissement n'est plus à jour,
+)
+
+implementer la fonctionnalité envoyer un mail à toute une classe.
+implementer un protocole de securite contre les injections sql dans tous les formulaires
+ajouter des prorietes title un peu partout
+faire des requetes asynchrones
+
+pour la version publique, crée un pied de page qui sera inclus sur tous les documents generés
